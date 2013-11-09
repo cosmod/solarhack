@@ -22,7 +22,22 @@ header h1{
 }
 
 .content-container{
-	width: 480px;
+	width: 320px;
 	margin: 20px auto;
 }
 
+input{
+	width: 100%;
+	margin: 0;
+}
+
+a.submit{
+	display: block;
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	background-color: green;
+	border-radius: 4px;
+	width: 100%;
+}
